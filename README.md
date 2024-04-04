@@ -18,9 +18,9 @@ To run the project code, follow these steps:
     ```bash
     git clone https://github.com/surya-579/Credit-card-Fraud-Detection.git
     ```
-3. Ensure you have Python installed (version 3.6 or higher).
-4. Install the required Python libraries.
-5. Open and run the `Credit_Card_Fraud_detection.ipynb` notebook in a Jupyter Notebook environment.
+2. Ensure you have Python installed (version 3.6 or higher).
+3. Install the required Python libraries.
+4. Open and run the `Credit_Card_Fraud_detection.ipynb` notebook in a Jupyter Notebook environment.
 
 ## Dependencies
 
